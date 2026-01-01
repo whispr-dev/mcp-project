@@ -1,0 +1,10 @@
+# DOMAIN profile: Web/HTTP/Scraping/APIs (excluding heavyweight stacks).
+# Generated from sm0l_tools_manifest.json
+
+Flask
+beautifulsoup4
+fastapi
+httpx
+psutil
+requests
+urllib3

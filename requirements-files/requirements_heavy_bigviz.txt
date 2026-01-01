@@ -1,0 +1,5 @@
+# HEAVY profile: heavy bigviz (install in addition to base).
+# Generated from sm0l_tools_manifest.json
+
+datashader
+holoviews

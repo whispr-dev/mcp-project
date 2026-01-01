@@ -1,0 +1,298 @@
+id,tool_name,source_path,domain,subdomain,description,deps_pypi,imports_unknown,tags,content_hash
+VIZ.PLOTS.001_01_datashader,sm0l_01_datashader,01_datashader.py,VIZ,PLOTS,!/usr/bin/env python3,holoviews numpy pandas,,holoviews numpy pandas,e89da4d17ad6
+VIZ.PLOTS.002_02_perspective,sm0l_02_perspective,02_perspective.py,VIZ,PLOTS,!/usr/bin/env python3,,,,89116ecac105
+VIZ.PLOTS.003_03_plotly_resampler,sm0l_03_plotly_resampler,03_plotly_resampler.py,VIZ,PLOTS,!/usr/bin/env python3,,,plot,e597d8c26b23
+VIZ.MAPS.001_04_pydeck,sm0l_04_pydeck,04_pydeck.py,VIZ,MAPS,!/usr/bin/env python3,numpy pandas pydeck,,numpy pandas pydeck,293316f8e0d9
+MISC.MISC.001_05_rich_terminal,sm0l_05_rich_terminal,05_rich_terminal.py,MISC,MISC,!/usr/bin/env python3,rich,,rich,7b93ac6fe603
+VIZ.GPU.001_06_vispy,sm0l_06_vispy,06_vispy.py,VIZ,GPU,!/usr/bin/env python3,,,,fc89ac278114
+MISC.MISC.002_07_mplcursors,sm0l_07_mplcursors,07_mplcursors.py,MISC,MISC,!/usr/bin/env python3,,,,b2f93a39b0d6
+VIZ.PLOTS.004_08_vaex,sm0l_08_vaex,08_vaex.py,VIZ,PLOTS,!/usr/bin/env python3,,,,ed4ae8030762
+NLP.BASIC.001_09_textblob,sm0l_09_textblob,09_textblob.py,NLP,BASIC,!/usr/bin/env python3,textblob,,textblob,93a39bd4425a
+NLP.SPACY.001_10_spacy,sm0l_10_spacy,10_spacy.py,NLP,SPACY,!/usr/bin/env python3,spacy,,spacy,70fbe31f579e
+MISC.MISC.003_11_llamaindex,sm0l_11_llamaindex,11_llamaindex.py,MISC,MISC,!/usr/bin/env python3,,,,44de348b7d6b
+WEB.HTTP.001_15_requests_retry,sm0l_15_requests_retry,15_requests_retry.py,WEB,HTTP,!/usr/bin/env python3,requests urllib3,,requests retry urllib3,167b677b8bf9
+MISC.MISC.004_16_selenium_waits,sm0l_16_selenium_waits,16_selenium_waits.py,MISC,MISC,!/usr/bin/env python3,,,browser,d4ac31316069
+MISC.MISC.005_17_celery_patterns,sm0l_17_celery_patterns,17_celery_patterns.py,MISC,MISC,!/usr/bin/env python3,,,,180b3133d1c3
+WEB.SCRAPE.001_18_beautifulsoup,sm0l_18_beautifulsoup,18_beautifulsoup.py,WEB,SCRAPE,!/usr/bin/env python3,beautifulsoup4,,bs4,5f8058ffd2de
+MISC.MISC.006_19_pathlib,sm0l_19_pathlib,19_pathlib.py,MISC,MISC,!/usr/bin/env python3,,,pathlib,345f0fb1e69b
+MISC.MISC.007_20_typer_cli,sm0l_20_typer_cli,20_typer_cli.py,MISC,MISC,!/usr/bin/env python3,typer,,typer,008ed9165403
+MISC.MISC.008_21_pydantic,sm0l_21_pydantic,21_pydantic.py,MISC,MISC,!/usr/bin/env python3,pydantic,,pydantic,317fbf7b08fb
+WEB.HTTP.002_22_httpx,sm0l_22_httpx,22_httpx.py,WEB,HTTP,!/usr/bin/env python3,httpx,,httpx,3d987761b5f3
+MISC.MISC.009_23_loguru,sm0l_23_loguru,23_loguru.py,MISC,MISC,!/usr/bin/env python3,loguru,,loguru,8b6faaf563b5
+MISC.MISC.010_24_joblib,sm0l_24_joblib,24_joblib.py,MISC,MISC,!/usr/bin/env python3,joblib,,joblib,1366a036852b
+MISC.MISC.011_25_watchfiles,sm0l_25_watchfiles,25_watchfiles.py,MISC,MISC,!/usr/bin/env python3,,,,71f49564e85d
+MISC.MISC.012_26_diskcache,sm0l_26_diskcache,26_diskcache.py,MISC,MISC,!/usr/bin/env python3,,,,21f84d449751
+MISC.MISC.013_27_pandera,sm0l_27_pandera,27_pandera.py,MISC,MISC,!/usr/bin/env python3,,,,dcc5006a45cb
+MISC.MISC.014_28_textual,sm0l_28_textual,28_textual.py,MISC,MISC,!/usr/bin/env python3,,,,40e130069a0e
+MISC.MISC.015_29_streamlit,sm0l_29_streamlit,29_streamlit.py,MISC,MISC,!/usr/bin/env python3,,,,7b95bda21c94
+AUTO.SCHED.001_30_schedule_patterns,sm0l_30_schedule_patterns,30_schedule_patterns.py,AUTO,SCHED,!/usr/bin/env python3,,schedule,schedule scheduler time,921296d5283d
+DOC.MISC.001_31_pikepdf,sm0l_31_pikepdf,31_pikepdf.py,DOC,MISC,!/usr/bin/env python3,,,pdf,c7d3fd7b88dc
+MISC.MISC.016_32_playwright,sm0l_32_playwright,32_playwright.py,MISC,MISC,!/usr/bin/env python3,,,browser,4f48ad0ca3e0
+DOC.MISC.002_33_pdf2ocr,sm0l_33_pdf2ocr,33_pdf2ocr.py,DOC,MISC,!/usr/bin/env python3,,,pdf,38c2ab6572e6
+MISC.MISC.017_34_moviepy,sm0l_34_moviepy,34_moviepy.py,MISC,MISC,!/usr/bin/env python3,,,,3d65bf8a933d
+MISC.MISC.018_35_yt_dlp,sm0l_35_yt_dlp,35_yt_dlp.py,MISC,MISC,!/usr/bin/env python3,,,,3ac9543d922b
+MISC.MISC.019_36_builtin_functions,sm0l_36_builtin_functions,36_builtin_functions.py,MISC,MISC,!/usr/bin/env python3,,,timeit,90891fb3bbf8
+DATA.DF.001_37_numpy_vectorize,sm0l_37_numpy_vectorize,37_numpy_vectorize.py,DATA,DF,!/usr/bin/env python3,numpy,,numpy timeit,cf9e416a3cae
+MISC.MISC.020_38_list_comprehension,sm0l_38_list_comprehension,38_list_comprehension.py,MISC,MISC,!/usr/bin/env python3,,,timeit,ad2b1df29937
+MISC.MISC.021_39_profiling_cprofile,sm0l_39_profiling_cprofile,39_profiling_cprofile.py,MISC,MISC,!/usr/bin/env python3,,cProfile pstats,cprofile io pstats timeit,ca3501fa162a
+MISC.MISC.022_40_generators,sm0l_40_generators,40_generators.py,MISC,MISC,!/usr/bin/env python3,,,,ddeda7e7701f
+MISC.MISC.023_41_local_variables,sm0l_41_local_variables,41_local_variables.py,MISC,MISC,!/usr/bin/env python3,,,timeit,ae9376cf869e
+MISC.MISC.024_42_string_join,sm0l_42_string_join,42_string_join.py,MISC,MISC,!/usr/bin/env python3,,,timeit,ff2db9fba392
+MISC.MISC.025_43_lru_cache,sm0l_43_lru_cache,43_lru_cache.py,MISC,MISC,!/usr/bin/env python3,,,functools timeit,828f75932563
+MISC.MISC.026_44_multiprocessing,sm0l_44_multiprocessing,44_multiprocessing.py,MISC,MISC,!/usr/bin/env python3,,,multiprocessing time,7d57fc330bfa
+MISC.MISC.027_45_data_structures,sm0l_45_data_structures,45_data_structures.py,MISC,MISC,!/usr/bin/env python3,,,timeit,71ffd66b507e
+MISC.MISC.028_46_numba_jit,sm0l_46_numba_jit,46_numba_jit.py,MISC,MISC,!/usr/bin/env python3,numba,,numba timeit,3e9f8c3a7f7c
+MISC.MISC.029_47_memory_prealloc,sm0l_47_memory_prealloc,47_memory_prealloc.py,MISC,MISC,!/usr/bin/env python3,,,timeit,ccd3e7bfccb0
+MISC.MISC.030_48_python_version,sm0l_48_python_version,48_python_version.py,MISC,MISC,!/usr/bin/env python3,,,,75e813e7ef92
+SYS.MON.001_49_watchdog_basics,sm0l_49_watchdog_basics,49_watchdog_basics.py,SYS,MON,!/usr/bin/env python3,watchdog,,filesystem time watchdog,d1321bec1993
+SYS.MON.002_50_watchdog_automation,sm0l_50_watchdog_automation,50_watchdog_automation.py,SYS,MON,!/usr/bin/env python3,watchdog,shutil,filesystem shutil time watchdog,e223dd52e697
+MISC.MISC.031_51_toolz_pipe,sm0l_51_toolz_pipe,51_toolz_pipe.py,MISC,MISC,!/usr/bin/env python3,toolz,,toolz,7116e0de6378
+MISC.MISC.032_52_coloredlogs,sm0l_52_coloredlogs,52_coloredlogs.py,MISC,MISC,!/usr/bin/env python3,,coloredlogs,coloredlogs logging,6d627b3062ba
+MISC.MISC.033_53_contextlib_suppress,sm0l_53_contextlib_suppress,53_contextlib_suppress.py,MISC,MISC,!/usr/bin/env python3,,,contextlib tempfile,484bc3e6957b
+MISC.MISC.034_54_dataclass_initvar,sm0l_54_dataclass_initvar,54_dataclass_initvar.py,MISC,MISC,!/usr/bin/env python3,,,,cfc966800c30
+MISC.MISC.035_55_asyncio_event,sm0l_55_asyncio_event,55_asyncio_event.py,MISC,MISC,!/usr/bin/env python3,,,asyncio,556fcfc9c56e
+MISC.MISC.036_56_importlib_version,sm0l_56_importlib_version,56_importlib_version.py,MISC,MISC,!/usr/bin/env python3,,,importlib,246a2fc962e8
+MISC.MISC.037_57_dataclass_replace,sm0l_57_dataclass_replace,57_dataclass_replace.py,MISC,MISC,!/usr/bin/env python3,,,,66341224a526
+MISC.MISC.038_58_sched_scheduler,sm0l_58_sched_scheduler,58_sched_scheduler.py,MISC,MISC,!/usr/bin/env python3,,,sched scheduler time,282609996fb9
+MISC.MISC.039_59_secrets_token,sm0l_59_secrets_token,59_secrets_token.py,MISC,MISC,!/usr/bin/env python3,,,secrets string,8a680a81cf4f
+MISC.MISC.040_60_cached_property,sm0l_60_cached_property,60_cached_property.py,MISC,MISC,!/usr/bin/env python3,,,functools,f0acbd766c90
+AUTO.WORKFLOW.001_airflow_dag_demo,sm0l_airflow_dag_demo,airflow_dag_demo.py,AUTO,WORKFLOW,airflow minimal DAG definition. Place this file in your Airflow dags folder. Running it directly will only construct the DAG if airflow is installed.,,airflow,airflow datetime,8d5ab3f79125
+AUTO.SCHED.002_apscheduler_demo,sm0l_apscheduler_demo,apscheduler_demo.py,AUTO,SCHED,APScheduler interval job (3 ticks),APScheduler,,apscheduler scheduler time,c081868ebf4b
+DATA.DF.002_arrow_demo,sm0l_arrow_demo,arrow_demo.py,DATA,DF,Run arrow_demo.py,arrow,__future__,__future__ arrow,a50a314ab09b
+MISC.MISC.041_asyncer_demo,sm0l_asyncer_demo,asyncer_demo.py,MISC,MISC,asyncer asyncify demo,,asyncer,asyncer asyncio,6255a7ec5fcf
+MISC.MISC.042_beartype_example,sm0l_beartype_example,beartype_example.py,MISC,MISC,!/usr/bin/env python3,,beartype,beartype,95f36cea781d
+MISC.MISC.043_benedict_demo,sm0l_benedict_demo,benedict_demo.py,MISC,MISC,Run benedict_demo.py,,__future__ benedict,__future__ benedict,87ed657eaf5f
+WEB.SCRAPE.002_bs4_demo,sm0l_bs4_demo,bs4_demo.py,WEB,SCRAPE,Run bs4_demo.py,beautifulsoup4,__future__,__future__ bs4,428c94b7821d
+MISC.MISC.044_cutecharts_demo,sm0l_cutecharts_demo,cutecharts_demo.py,MISC,MISC,Run cutecharts_demo.py,,__future__ cutecharts,__future__ chart cutecharts,7eb150c70df0
+AUTO.WORKFLOW.002_dagster_demo,sm0l_dagster_demo,dagster_demo.py,AUTO,WORKFLOW,dagster minimal in-process job demo,,dagster,dagster,2d127ce48653
+MISC.MISC.045_dataclasses_demo,sm0l_dataclasses_demo,dataclasses_demo.py,MISC,MISC,Run dataclasses_demo.py,,__future__,__future__,eb477f8ce8ee
+VIZ.PLOTS.005_datashader_demo,sm0l_datashader_demo,datashader_demo.py,VIZ,PLOTS,Run datashader_demo.py,datashader numpy pandas,__future__,__future__ datashader numpy pandas,bbdb4b63730f
+MISC.MISC.046_dynaconf_demo,sm0l_dynaconf_demo,dynaconf_demo.py,MISC,MISC,Run dynaconf_demo.py,,__future__ dynaconf,__future__ dynaconf tempfile textwrap,4f349c673ea5
+MISC.MISC.047_faker_demo,sm0l_faker_demo,faker_demo.py,MISC,MISC,Run faker_demo.py,Faker,__future__,__future__ faker,da0a692932de
+WEB.API.001_fastapi_app_demo,sm0l_fastapi_app_demo,fastapi_app_demo.py,WEB,API,fastapi minimal app object,fastapi,,api fastapi,1b126da1202a
+WEB.API.002_fastapi_demo,sm0l_fastapi_demo,fastapi_demo.py,WEB,API,Run fastapi_demo.py,fastapi,__future__,__future__ api fastapi,322426cefc4e
+MISC.MISC.048_fire_example,sm0l_fire_example,fire_example.py,MISC,MISC,!/usr/bin/env python3,,fire,fire,9e02f4b455b2
+WEB.API.003_flask_demo,sm0l_flask_demo,flask_demo.py,WEB,API,Run flask_demo.py,Flask,__future__,__future__ api flask,85d20b3c7616
+DOC.PDF.001_fpdf_demo,sm0l_fpdf_demo,fpdf_demo.py,DOC,PDF,fpdf2 minimal PDF generation demo,,fpdf,fpdf pathlib pdf tempfile,6c8357dd5944
+MISC.MISC.049_fuzzywuzzy_demo,sm0l_fuzzywuzzy_demo,fuzzywuzzy_demo.py,MISC,MISC,Run fuzzywuzzy_demo.py,,__future__ fuzzywuzzy,__future__ fuzzywuzzy,51f27284e2a7
+MISC.MISC.050_git_gnupg_ssh_keys_setup,sm0l_git_gnupg_ssh_keys_setup,git_gnupg_ssh_keys_setup.py,MISC,MISC,Run git_gnupg_ssh_keys_setup.py,,shutil,ctypes pathlib shutil subprocess,d2ce31a984c7
+WEB.HTTP.003_github_repo_syncer,sm0l_github_repo_syncer,github_repo_syncer.py,WEB,HTTP,!/usr/bin/env python3,requests,,argparse pathlib requests subprocess,8c6e09014cf2
+MISC.MISC.051_google_calendar_api_demo,sm0l_google_calendar_api_demo,google_calendar_api_demo.py,MISC,MISC,Google Calendar API minimal skeleton. Requires service account JSON path in: GOOGLE_CRED_JSON This demo only builds a client and lists next 1 event if credentials are provided.,,googleapiclient oauth2client,datetime googleapiclient oauth2client,ac8a67491802
+MISC.MISC.052_gradio_demo,sm0l_gradio_demo,gradio_demo.py,MISC,MISC,Run gradio_demo.py,gradio,__future__,__future__ gradio,c8acf1abcaca
+VIZ.PLOTS.006_holoviews_demo,sm0l_holoviews_demo,holoviews_demo.py,VIZ,PLOTS,Run holoviews_demo.py,holoviews,__future__,__future__ holoviews,c6ceb8167226
+MISC.MISC.053_html_builder,sm0l_html_builder,html-builder.py,MISC,MISC,Run html-builder.py,,html_fetcher html_template,datetime html_fetcher html_template,2a79cb4fdcf2
+WEB.SCRAPE.003_html_fetcher,sm0l_html_fetcher,html-fetcher.py,WEB,SCRAPE,Run html-fetcher.py,beautifulsoup4 requests,,bs4 requests urllib,b7e3c06453d7
+MISC.MISC.054_html_template,sm0l_html_template,html-template.py,MISC,MISC,Run html-template.py,,,,a8e860e23695
+WEB.HTTP.004_httpx_demo,sm0l_httpx_demo,httpx_demo.py,WEB,HTTP,Run httpx_demo.py,httpx,__future__,__future__ httpx,e36d55190135
+AUTO.WORKFLOW.003_huey_memory_demo,sm0l_huey_memory_demo,huey_memory_demo.py,AUTO,WORKFLOW,huey MemoryHuey task demo,,huey,huey,791e72d09056
+MISC.MISC.055_humanize_demo,sm0l_humanize_demo,humanize_demo.py,MISC,MISC,Run humanize_demo.py,,__future__ humanize,__future__ datetime humanize,2dbfc71278ff
+MISC.MISC.056_icecream_demo,sm0l_icecream_demo,icecream_demo.py,MISC,MISC,Run icecream_demo.py,,__future__ icecream,__future__ icecream,6eb768d0be81
+MISC.MISC.057_icecream_example,sm0l_icecream_example,icecream_example.py,MISC,MISC,!/usr/bin/env python3,,icecream,icecream,6cfc648fe1e4
+WEB.HTTP.005_image_downloader,sm0l_image_downloader,image_downloader.py,WEB,HTTP,!/usr/bin/env python3,requests,,argparse pathlib requests,a120d2e2b20d
+MISC.MISC.058_imbox_demo,sm0l_imbox_demo,imbox_demo.py,MISC,MISC,"imbox minimal login skeleton. Set IMAP_HOST, IMAP_USER, IMAP_PASS env vars to actually connect.",imbox,,imbox,04d827344473
+MISC.MISC.059_incremental_backup,sm0l_incremental_backup,incremental_backup.py,MISC,MISC,!/usr/bin/env python3,,shutil,argparse datetime hashlib pathlib shutil,a7eca93395d8
+WEB.HTTP.006_install_arch_wsl,sm0l_install_arch_wsl,install-arch-wsl.py,WEB,HTTP,Run install-arch-wsl.py,requests,,pathlib requests subprocess,7ad0fbcadb22
+WEB.HTTP.007_install_nerdfont,sm0l_install_nerdfont,install-nerdfont.py,WEB,HTTP,Run install-nerdfont.py,requests,,pathlib requests subprocess,7ad0fbcadb22
+MISC.MISC.060_lightningchart_demo,sm0l_lightningchart_demo,lightningchart_demo.py,MISC,MISC,Run lightningchart_demo.py,,__future__ lightningchart,__future__ chart lightningchart,708464b7f315
+MISC.MISC.061_logfire_demo,sm0l_logfire_demo,logfire_demo.py,MISC,MISC,logfire minimal setup demo,,logfire,logfire,d1bbb81cd618
+MISC.MISC.062_logging_demo,sm0l_logging_demo,logging_demo.py,MISC,MISC,Run logging_demo.py,,__future__,__future__ logging,981efabf58f3
+MISC.MISC.063_loguru_demo,sm0l_loguru_demo,loguru_demo.py,MISC,MISC,Run loguru_demo.py,loguru,__future__,__future__ loguru,0be654ef0d70
+WEB.SCRAPE.004_mechanicalsoup_demo,sm0l_mechanicalsoup_demo,mechanicalsoup_demo.py,WEB,SCRAPE,MechanicalSoup basic fetch demo,,mechanicalsoup,mechanicalsoup,4f65b7baa7b9
+MISC.MISC.064_openai_demo,sm0l_openai_demo,openai_demo.py,MISC,MISC,Run openai_demo.py,openai,__future__,__future__ openai,cfc430b33891
+DOC.OFFICE.001_openpyxl_demo,sm0l_openpyxl_demo,openpyxl_demo.py,DOC,OFFICE,openpyxl create workbook demo,openpyxl,,openpyxl pathlib tempfile,912b7ca4bf32
+MISC.MISC.065_optimize_ssd_2,sm0l_optimize_ssd_2,optimize-ssd (2).py,MISC,MISC,Run optimize-ssd (2).py,,,subprocess,b057fa29538a
+MISC.MISC.066_optimize_ssd,sm0l_optimize_ssd,optimize-ssd.py,MISC,MISC,Run optimize-ssd.py,,,subprocess,d8b8cb89bbad
+MISC.MISC.067_orjson_demo,sm0l_orjson_demo,orjson_demo.py,MISC,MISC,Run orjson_demo.py,orjson,__future__,__future__ orjson,13d639f3ebce
+WEB.HTTP.008_page_monitor,sm0l_page_monitor,page_monitor.py,WEB,HTTP,!/usr/bin/env python3,requests,,argparse hashlib pathlib requests,5e5bf96c5a5c
+DATA.DF.003_pandas_demo,sm0l_pandas_demo,pandas_demo.py,DATA,DF,Run pandas_demo.py,pandas,__future__,__future__ pandas,193cb8449814
+MISC.MISC.068_pattern_command_registry,sm0l_pattern_command_registry,pattern_command_registry.py,MISC,MISC,Command registry pattern (stdlib-only).,,,,442b8257385d
+MISC.MISC.069_pattern_config_injection,sm0l_pattern_config_injection,pattern_config_injection.py,MISC,MISC,Configuration injection pattern (stdlib-only).,,,,9096be370a41
+MISC.MISC.070_pattern_guardian,sm0l_pattern_guardian,pattern_guardian.py,MISC,MISC,Guardian pattern: runtime interface guard (stdlib-only).,,,,0c047d43b6e4
+MISC.MISC.071_pattern_plugin_hooks,sm0l_pattern_plugin_hooks,pattern_plugin_hooks.py,MISC,MISC,Dynamic plugin hooks pattern (stdlib-only).,,,,e6ac28ee8e47
+MISC.MISC.072_pattern_transaction_wrapper,sm0l_pattern_transaction_wrapper,pattern_transaction_wrapper.py,MISC,MISC,Transaction wrapper pattern (stdlib-only).,,,contextlib,45723703fbf8
+DOC.PDF.002_pdfplumber_demo,sm0l_pdfplumber_demo,pdfplumber_demo.py,DOC,PDF,Run pdfplumber_demo.py,pdfplumber,__future__,__future__ pathlib pdf pdfplumber,9df4e6fed42f
+MISC.MISC.073_pendulum_demo,sm0l_pendulum_demo,pendulum_demo.py,MISC,MISC,Run pendulum_demo.py,pendulum,__future__,__future__ pendulum,9143c30ad613
+MISC.MISC.074_pendulum_example,sm0l_pendulum_example,pendulum_example.py,MISC,MISC,!/usr/bin/env python3,pendulum,,pendulum,2b43b08e970b
+MISC.MISC.075_pillow_demo,sm0l_pillow_demo,pillow_demo.py,MISC,MISC,Run pillow_demo.py,Pillow,__future__,__future__ io pil,4fe6bc409712
+WEB.BROWSER.001_playwright_demo,sm0l_playwright_demo,playwright_demo.py,WEB,BROWSER,Run playwright_demo.py,playwright,__future__,__future__ browser playwright,62a104e3696a
+VIZ.PLOTS.007_plotext_demo,sm0l_plotext_demo,plotext_demo.py,VIZ,PLOTS,Run plotext_demo.py,,__future__ plotext,__future__ plot plotext,6a16d76bc15c
+DATA.DF.004_polars_demo,sm0l_polars_demo,polars_demo.py,DATA,DF,polars quick dataframe demo,polars,,polars,08d03e484b95
+AUTO.WORKFLOW.004_prefect_demo,sm0l_prefect_demo,prefect_demo.py,AUTO,WORKFLOW,Run prefect_demo.py,prefect,__future__,__future__ prefect,b77f5b45e6f2
+AUTO.WORKFLOW.005_prefect_flow_demo,sm0l_prefect_flow_demo,prefect_flow_demo.py,AUTO,WORKFLOW,prefect 2/3 minimal flow demo,prefect,,prefect,36b235024a30
+SYS.MON.003_process_monitor,sm0l_process_monitor,process_monitor.py,SYS,MON,!/usr/bin/env python3,psutil,,argparse psutil subprocess time,4e003d23fcee
+SYS.MON.004_psutil_demo,sm0l_psutil_demo,psutil_demo.py,SYS,MON,psutil quick system stats,psutil,,psutil system,f8ca9b7be7cd
+MISC.MISC.076_pydantic_demo,sm0l_pydantic_demo,pydantic_demo.py,MISC,MISC,Run pydantic_demo.py,pydantic,__future__,__future__ pydantic,917ac663d6f1
+MISC.MISC.077_pydub_example,sm0l_pydub_example,pydub_example.py,MISC,MISC,!/usr/bin/env python3,pydub,,pydub,64bb196858c6
+VIZ.PLOTS.008_pyecharts_demo,sm0l_pyecharts_demo,pyecharts_demo.py,VIZ,PLOTS,Run pyecharts_demo.py,pyecharts,__future__,__future__ chart pyecharts,20316372a3c6
+MISC.MISC.078_pyinputplus_demo,sm0l_pyinputplus_demo,pyinputplus_demo.py,MISC,MISC,Run pyinputplus_demo.py,,__future__ pyinputplus,__future__ pyinputplus,87b9c3b63592
+DOC.PDF.003_pymupdf_demo,sm0l_pymupdf_demo,pymupdf_demo.py,DOC,PDF,Run pymupdf_demo.py,PyMuPDF,__future__,__future__ fitz pathlib pdf,4e9f199497fb
+DOC.PDF.004_pypdf2_demo,sm0l_pypdf2_demo,pypdf2_demo.py,DOC,PDF,PyPDF2 create + read,,PyPDF2,pathlib pdf pypdf2 tempfile,453bc0fe7b15
+DOC.PDF.005_pypdf2_example,sm0l_pypdf2_example,pypdf2_example.py,DOC,PDF,!/usr/bin/env python3,,PyPDF2,pdf pypdf2,0552e09c8133
+WEB.BROWSER.002_pyppeteer_demo,sm0l_pyppeteer_demo,pyppeteer_demo.py,WEB,BROWSER,pyppeteer minimal headless launch,pyppeteer,,asyncio pyppeteer,4b4ecff3e7aa
+MISC.MISC.079_pytesseract_demo,sm0l_pytesseract_demo,pytesseract_demo.py,MISC,MISC,Run pytesseract_demo.py,Pillow pytesseract,__future__,__future__ pil pytesseract,3cc136642fbe
+DATA.DF.005_arrow_demo,sm0l_arrow_demo,python_library_demos_sm0l/arrow_demo.py,DATA,DF,Run arrow_demo.py,arrow,__future__,__future__ arrow,a50a314ab09b
+MISC.MISC.080_benedict_demo,sm0l_benedict_demo,python_library_demos_sm0l/benedict_demo.py,MISC,MISC,Run benedict_demo.py,,__future__ benedict,__future__ benedict,87ed657eaf5f
+WEB.SCRAPE.005_bs4_demo,sm0l_bs4_demo,python_library_demos_sm0l/bs4_demo.py,WEB,SCRAPE,Run bs4_demo.py,beautifulsoup4,__future__,__future__ bs4,428c94b7821d
+MISC.MISC.081_cutecharts_demo,sm0l_cutecharts_demo,python_library_demos_sm0l/cutecharts_demo.py,MISC,MISC,Run cutecharts_demo.py,,__future__ cutecharts,__future__ chart cutecharts,7eb150c70df0
+MISC.MISC.082_dataclasses_demo,sm0l_dataclasses_demo,python_library_demos_sm0l/dataclasses_demo.py,MISC,MISC,Run dataclasses_demo.py,,__future__,__future__,eb477f8ce8ee
+VIZ.PLOTS.009_datashader_demo,sm0l_datashader_demo,python_library_demos_sm0l/datashader_demo.py,VIZ,PLOTS,Run datashader_demo.py,datashader numpy pandas,__future__,__future__ datashader numpy pandas,bbdb4b63730f
+MISC.MISC.083_dynaconf_demo,sm0l_dynaconf_demo,python_library_demos_sm0l/dynaconf_demo.py,MISC,MISC,Run dynaconf_demo.py,,__future__ dynaconf,__future__ dynaconf tempfile textwrap,4f349c673ea5
+MISC.MISC.084_faker_demo,sm0l_faker_demo,python_library_demos_sm0l/faker_demo.py,MISC,MISC,Run faker_demo.py,Faker,__future__,__future__ faker,da0a692932de
+WEB.API.004_fastapi_demo,sm0l_fastapi_demo,python_library_demos_sm0l/fastapi_demo.py,WEB,API,Run fastapi_demo.py,fastapi,__future__,__future__ api fastapi,322426cefc4e
+WEB.API.005_flask_demo,sm0l_flask_demo,python_library_demos_sm0l/flask_demo.py,WEB,API,Run flask_demo.py,Flask,__future__,__future__ api flask,85d20b3c7616
+MISC.MISC.085_fuzzywuzzy_demo,sm0l_fuzzywuzzy_demo,python_library_demos_sm0l/fuzzywuzzy_demo.py,MISC,MISC,Run fuzzywuzzy_demo.py,,__future__ fuzzywuzzy,__future__ fuzzywuzzy,51f27284e2a7
+MISC.MISC.086_gradio_demo,sm0l_gradio_demo,python_library_demos_sm0l/gradio_demo.py,MISC,MISC,Run gradio_demo.py,gradio,__future__,__future__ gradio,c8acf1abcaca
+VIZ.PLOTS.010_holoviews_demo,sm0l_holoviews_demo,python_library_demos_sm0l/holoviews_demo.py,VIZ,PLOTS,Run holoviews_demo.py,holoviews,__future__,__future__ holoviews,c6ceb8167226
+WEB.HTTP.009_httpx_demo,sm0l_httpx_demo,python_library_demos_sm0l/httpx_demo.py,WEB,HTTP,Run httpx_demo.py,httpx,__future__,__future__ httpx,e36d55190135
+MISC.MISC.087_humanize_demo,sm0l_humanize_demo,python_library_demos_sm0l/humanize_demo.py,MISC,MISC,Run humanize_demo.py,,__future__ humanize,__future__ datetime humanize,2dbfc71278ff
+MISC.MISC.088_icecream_demo,sm0l_icecream_demo,python_library_demos_sm0l/icecream_demo.py,MISC,MISC,Run icecream_demo.py,,__future__ icecream,__future__ icecream,6eb768d0be81
+MISC.MISC.089_lightningchart_demo,sm0l_lightningchart_demo,python_library_demos_sm0l/lightningchart_demo.py,MISC,MISC,Run lightningchart_demo.py,,__future__ lightningchart,__future__ chart lightningchart,708464b7f315
+MISC.MISC.090_logging_demo,sm0l_logging_demo,python_library_demos_sm0l/logging_demo.py,MISC,MISC,Run logging_demo.py,,__future__,__future__ logging,981efabf58f3
+MISC.MISC.091_loguru_demo,sm0l_loguru_demo,python_library_demos_sm0l/loguru_demo.py,MISC,MISC,Run loguru_demo.py,loguru,__future__,__future__ loguru,0be654ef0d70
+MISC.MISC.092_openai_demo,sm0l_openai_demo,python_library_demos_sm0l/openai_demo.py,MISC,MISC,Run openai_demo.py,openai,__future__,__future__ openai,cfc430b33891
+MISC.MISC.093_orjson_demo,sm0l_orjson_demo,python_library_demos_sm0l/orjson_demo.py,MISC,MISC,Run orjson_demo.py,orjson,__future__,__future__ orjson,13d639f3ebce
+DATA.DF.006_pandas_demo,sm0l_pandas_demo,python_library_demos_sm0l/pandas_demo.py,DATA,DF,Run pandas_demo.py,pandas,__future__,__future__ pandas,193cb8449814
+DOC.PDF.006_pdfplumber_demo,sm0l_pdfplumber_demo,python_library_demos_sm0l/pdfplumber_demo.py,DOC,PDF,Run pdfplumber_demo.py,pdfplumber,__future__,__future__ pathlib pdf pdfplumber,9df4e6fed42f
+MISC.MISC.094_pendulum_demo,sm0l_pendulum_demo,python_library_demos_sm0l/pendulum_demo.py,MISC,MISC,Run pendulum_demo.py,pendulum,__future__,__future__ pendulum,9143c30ad613
+MISC.MISC.095_pillow_demo,sm0l_pillow_demo,python_library_demos_sm0l/pillow_demo.py,MISC,MISC,Run pillow_demo.py,Pillow,__future__,__future__ io pil,4fe6bc409712
+WEB.BROWSER.003_playwright_demo,sm0l_playwright_demo,python_library_demos_sm0l/playwright_demo.py,WEB,BROWSER,Run playwright_demo.py,playwright,__future__,__future__ browser playwright,62a104e3696a
+VIZ.PLOTS.011_plotext_demo,sm0l_plotext_demo,python_library_demos_sm0l/plotext_demo.py,VIZ,PLOTS,Run plotext_demo.py,,__future__ plotext,__future__ plot plotext,6a16d76bc15c
+AUTO.WORKFLOW.006_prefect_demo,sm0l_prefect_demo,python_library_demos_sm0l/prefect_demo.py,AUTO,WORKFLOW,Run prefect_demo.py,prefect,__future__,__future__ prefect,b77f5b45e6f2
+MISC.MISC.096_pydantic_demo,sm0l_pydantic_demo,python_library_demos_sm0l/pydantic_demo.py,MISC,MISC,Run pydantic_demo.py,pydantic,__future__,__future__ pydantic,917ac663d6f1
+VIZ.PLOTS.012_pyecharts_demo,sm0l_pyecharts_demo,python_library_demos_sm0l/pyecharts_demo.py,VIZ,PLOTS,Run pyecharts_demo.py,pyecharts,__future__,__future__ chart pyecharts,20316372a3c6
+MISC.MISC.097_pyinputplus_demo,sm0l_pyinputplus_demo,python_library_demos_sm0l/pyinputplus_demo.py,MISC,MISC,Run pyinputplus_demo.py,,__future__ pyinputplus,__future__ pyinputplus,87b9c3b63592
+DOC.PDF.007_pymupdf_demo,sm0l_pymupdf_demo,python_library_demos_sm0l/pymupdf_demo.py,DOC,PDF,Run pymupdf_demo.py,PyMuPDF,__future__,__future__ fitz pathlib pdf,4e9f199497fb
+MISC.MISC.098_pytesseract_demo,sm0l_pytesseract_demo,python_library_demos_sm0l/pytesseract_demo.py,MISC,MISC,Run pytesseract_demo.py,Pillow pytesseract,__future__,__future__ pil pytesseract,3cc136642fbe
+VIZ.PLOTS.013_pywaffle_demo,sm0l_pywaffle_demo,python_library_demos_sm0l/pywaffle_demo.py,VIZ,PLOTS,Run pywaffle_demo.py,matplotlib,__future__ pywaffle,__future__ matplotlib pywaffle,2400b9b0f93e
+MISC.MISC.099_pywhat_demo,sm0l_pywhat_demo,python_library_demos_sm0l/pywhat_demo.py,MISC,MISC,Run pywhat_demo.py,pywhat,__future__,__future__ pywhat,6935a5436a8f
+MISC.MISC.100_redirect_stdout_demo,sm0l_redirect_stdout_demo,python_library_demos_sm0l/redirect_stdout_demo.py,MISC,MISC,Run redirect_stdout_demo.py,,__future__,__future__ contextlib io,cebdee86b42a
+WEB.HTTP.010_requests_demo,sm0l_requests_demo,python_library_demos_sm0l/requests_demo.py,WEB,HTTP,Run requests_demo.py,requests,__future__,__future__ requests,3aca79878a52
+MISC.MISC.101_rich_demo,sm0l_rich_demo,python_library_demos_sm0l/rich_demo.py,MISC,MISC,Run rich_demo.py,rich,__future__,__future__ rich,72eed6927990
+MISC.MISC.102_ruff_demo,sm0l_ruff_demo,python_library_demos_sm0l/ruff_demo.py,MISC,MISC,Run ruff_demo.py,,__future__ shutil,__future__ pathlib shutil subprocess tempfile textwrap,03b485d08f81
+AUTO.SCHED.003_schedule_demo,sm0l_schedule_demo,python_library_demos_sm0l/schedule_demo.py,AUTO,SCHED,Run schedule_demo.py,,__future__ schedule,__future__ schedule scheduler time,b954ba880e01
+WEB.BROWSER.004_selenium_demo,sm0l_selenium_demo,python_library_demos_sm0l/selenium_demo.py,WEB,BROWSER,Run selenium_demo.py,selenium,__future__,__future__ browser selenium,65c6c546be7e
+NLP.EMBED.001_sentence_transformers_demo,sm0l_sentence_transformers_demo,python_library_demos_sm0l/sentence_transformers_demo.py,NLP,EMBED,Run sentence_transformers_demo.py,sentence-transformers,__future__,__future__ sentence_transformers,c765662ccd2f
+MISC.MISC.103_shapely_demo,sm0l_shapely_demo,python_library_demos_sm0l/shapely_demo.py,MISC,MISC,Run shapely_demo.py,shapely,__future__,__future__ shapely,308e1c505aa4
+MISC.MISC.104_tenacity_demo,sm0l_tenacity_demo,python_library_demos_sm0l/tenacity_demo.py,MISC,MISC,Run tenacity_demo.py,tenacity,__future__,__future__ logging random tenacity time,d5a360ad927c
+ML.TORCH.001_torch_tensor_demo,sm0l_torch_tensor_demo,python_library_demos_sm0l/torch_tensor_demo.py,ML,TORCH,Run torch_tensor_demo.py,torch,__future__,__future__ torch,768cb7bd323d
+MISC.MISC.105_typer_demo,sm0l_typer_demo,python_library_demos_sm0l/typer_demo.py,MISC,MISC,Run typer_demo.py,typer,__future__,__future__ typer,bdada77f3c43
+SYS.MON.005_watchdog_demo,sm0l_watchdog_demo,python_library_demos_sm0l/watchdog_demo.py,SYS,MON,Run watchdog_demo.py,watchdog,__future__,__future__ filesystem pathlib tempfile time watchdog,2cde8d4d1229
+AUTO.WORKFLOW.007_airflow_dag_demo,sm0l_airflow_dag_demo,pythons1_sm0l_demos/airflow_dag_demo.py,AUTO,WORKFLOW,airflow minimal DAG definition. Place this file in your Airflow dags folder. Running it directly will only construct the DAG if airflow is installed.,,airflow,airflow datetime,8d5ab3f79125
+MISC.MISC.106_asyncer_demo,sm0l_asyncer_demo,pythons1_sm0l_demos/asyncer_demo.py,MISC,MISC,asyncer asyncify demo,,asyncer,asyncer asyncio,6255a7ec5fcf
+AUTO.WORKFLOW.008_dagster_demo,sm0l_dagster_demo,pythons1_sm0l_demos/dagster_demo.py,AUTO,WORKFLOW,dagster minimal in-process job demo,,dagster,dagster,2d127ce48653
+WEB.API.006_fastapi_app_demo,sm0l_fastapi_app_demo,pythons1_sm0l_demos/fastapi_app_demo.py,WEB,API,fastapi minimal app object,fastapi,,api fastapi,1b126da1202a
+DOC.PDF.008_fpdf_demo,sm0l_fpdf_demo,pythons1_sm0l_demos/fpdf_demo.py,DOC,PDF,fpdf2 minimal PDF generation demo,,fpdf,fpdf pathlib pdf tempfile,6c8357dd5944
+WEB.HTTP.011_httpx_demo,sm0l_httpx_demo,pythons1_sm0l_demos/httpx_demo.py,WEB,HTTP,httpx simple GET demo,httpx,,httpx,b70ead9fc8ca
+AUTO.WORKFLOW.009_huey_memory_demo,sm0l_huey_memory_demo,pythons1_sm0l_demos/huey_memory_demo.py,AUTO,WORKFLOW,huey MemoryHuey task demo,,huey,huey,791e72d09056
+MISC.MISC.107_imbox_demo,sm0l_imbox_demo,pythons1_sm0l_demos/imbox_demo.py,MISC,MISC,"imbox minimal login skeleton. Set IMAP_HOST, IMAP_USER, IMAP_PASS env vars to actually connect.",imbox,,imbox,04d827344473
+MISC.MISC.108_logfire_demo,sm0l_logfire_demo,pythons1_sm0l_demos/logfire_demo.py,MISC,MISC,logfire minimal setup demo,,logfire,logfire,d1bbb81cd618
+MISC.MISC.109_loguru_demo,sm0l_loguru_demo,pythons1_sm0l_demos/loguru_demo.py,MISC,MISC,loguru minimal logging demo,loguru,,loguru,c3841c838228
+WEB.SCRAPE.006_mechanicalsoup_demo,sm0l_mechanicalsoup_demo,pythons1_sm0l_demos/mechanicalsoup_demo.py,WEB,SCRAPE,MechanicalSoup basic fetch demo,,mechanicalsoup,mechanicalsoup,4f65b7baa7b9
+MISC.MISC.110_openai_demo,sm0l_openai_demo,pythons1_sm0l_demos/openai_demo.py,MISC,MISC,OpenAI minimal API demo (requires OPENAI_API_KEY). Uses the modern client interface if installed.,openai,,openai,1da26a388d31
+DOC.OFFICE.002_openpyxl_demo,sm0l_openpyxl_demo,pythons1_sm0l_demos/openpyxl_demo.py,DOC,OFFICE,openpyxl create workbook demo,openpyxl,,openpyxl pathlib tempfile,912b7ca4bf32
+DATA.DF.007_pandas_demo,sm0l_pandas_demo,pythons1_sm0l_demos/pandas_demo.py,DATA,DF,pandas tiny dataframe demo,pandas,,pandas,bd3c173bb1ab
+WEB.BROWSER.005_playwright_demo,sm0l_playwright_demo,pythons1_sm0l_demos/playwright_demo.py,WEB,BROWSER,playwright minimal browser launch demo,playwright,,browser playwright,ae987e256df4
+DATA.DF.008_polars_demo,sm0l_polars_demo,pythons1_sm0l_demos/polars_demo.py,DATA,DF,polars quick dataframe demo,polars,,polars,08d03e484b95
+AUTO.WORKFLOW.010_prefect_flow_demo,sm0l_prefect_flow_demo,pythons1_sm0l_demos/prefect_flow_demo.py,AUTO,WORKFLOW,prefect 2/3 minimal flow demo,prefect,,prefect,36b235024a30
+MISC.MISC.111_pydantic_demo,sm0l_pydantic_demo,pythons1_sm0l_demos/pydantic_demo.py,MISC,MISC,pydantic v2 model validation demo,pydantic,,pydantic,ca6f4b6a6fcf
+WEB.BROWSER.006_pyppeteer_demo,sm0l_pyppeteer_demo,pythons1_sm0l_demos/pyppeteer_demo.py,WEB,BROWSER,pyppeteer minimal headless launch,pyppeteer,,asyncio pyppeteer,4b4ecff3e7aa
+WEB.SCRAPE.007_requests_bs4_demo,sm0l_requests_bs4_demo,pythons1_sm0l_demos/requests_bs4_demo.py,WEB,SCRAPE,requests + BeautifulSoup HTML parse demo,beautifulsoup4 requests,,bs4 requests,cd647353316c
+WEB.HTTP.012_requests_demo,sm0l_requests_demo,pythons1_sm0l_demos/requests_demo.py,WEB,HTTP,requests minimal GET demo,requests,,requests,37290a513a05
+MISC.MISC.112_rich_console_demo,sm0l_rich_console_demo,pythons1_sm0l_demos/rich_console_demo.py,MISC,MISC,rich console output demo,rich,,rich,795a1f5fc2fa
+MISC.MISC.113_ruff_cli_demo,sm0l_ruff_cli_demo,pythons1_sm0l_demos/ruff_cli_demo.py,MISC,MISC,ruff CLI demo on a tiny temp file.,,,pathlib subprocess tempfile textwrap,d488ebebd4ed
+MISC.MISC.114_scdl_help_demo,sm0l_scdl_help_demo,pythons1_sm0l_demos/scdl_help_demo.py,MISC,MISC,scdl safe demo: print CLI help. This does not download anything.,,,subprocess,3cf019304632
+AUTO.SCHED.004_schedule_demo,sm0l_schedule_demo,pythons1_sm0l_demos/schedule_demo.py,AUTO,SCHED,schedule minimal periodic task demo (runs ~3 ticks),,schedule,schedule scheduler time,80aff3227653
+AUTO.SCHED.005_scheduled_cleanup_demo,sm0l_scheduled_cleanup_demo,pythons1_sm0l_demos/scheduled_cleanup_demo.py,AUTO,SCHED,schedule-based demo cleanup (safe temp sandbox).,,schedule,pathlib schedule scheduler tempfile time,b6d35a6ff6a4
+NLP.EMBED.002_sentence_transformers_demo,sm0l_sentence_transformers_demo,pythons1_sm0l_demos/sentence_transformers_demo.py,NLP,EMBED,sentence-transformers embedding demo,sentence-transformers,,sentence_transformers,edc91bfadf4e
+DATA.DF.009_sklearn_linear_regression_demo,sm0l_sklearn_linear_regression_demo,pythons1_sm0l_demos/sklearn_linear_regression_demo.py,DATA,DF,sklearn LinearRegression quick forecast demo,pandas scikit-learn,,pandas sklearn,085b630471b5
+MISC.MISC.115_streamlit_app_demo,sm0l_streamlit_app_demo,pythons1_sm0l_demos/streamlit_app_demo.py,MISC,MISC,streamlit minimal app. Run: streamlit run streamlit_app_demo.py,streamlit,,streamlit,6a1c869b0313
+MISC.MISC.116_telethon_demo,sm0l_telethon_demo,pythons1_sm0l_demos/telethon_demo.py,MISC,MISC,telethon minimal client construction. Requires you to set TELETHON_API_ID and TELETHON_API_HASH env vars for real use. This demo won't connect.,,telethon,telethon,a4af70cfb250
+MISC.MISC.117_tenacity_retry_demo,sm0l_tenacity_retry_demo,pythons1_sm0l_demos/tenacity_retry_demo.py,MISC,MISC,tenacity retry demo,tenacity,,retry tenacity,633c7c9059aa
+MISC.MISC.118_toolz_partition_demo,sm0l_toolz_partition_demo,pythons1_sm0l_demos/toolz_partition_demo.py,MISC,MISC,toolz.partition_all demo,toolz,,toolz,13a1c22158d7
+MISC.MISC.119_toolz_pipe_demo,sm0l_toolz_pipe_demo,pythons1_sm0l_demos/toolz_pipe_demo.py,MISC,MISC,toolz.pipe demo,toolz,,toolz,0c8c70f6efcb
+MISC.MISC.120_twint_demo,sm0l_twint_demo,pythons1_sm0l_demos/twint_demo.py,MISC,MISC,twint minimal config object demo,,twint,twint,cd758742fd05
+MISC.MISC.121_typer_demo,sm0l_typer_demo,pythons1_sm0l_demos/typer_demo.py,MISC,MISC,typer minimal CLI demo. Run: python typer_demo.py hello --name wofl,typer,,typer,2d394d407445
+SYS.MON.006_watchdog_demo,sm0l_watchdog_demo,pythons1_sm0l_demos/watchdog_demo.py,SYS,MON,watchdog file system event demo (temp dir),watchdog,,filesystem pathlib tempfile time watchdog,b6de905b8a32
+MISC.MISC.122_youtubesearchpython_demo,sm0l_youtubesearchpython_demo,pythons1_sm0l_demos/youtubesearchpython_demo.py,MISC,MISC,youtube-search-python quick search demo,youtube-search-python,,youtubesearchpython,5974f378da61
+AUTO.WORKFLOW.011_airflow_dag_demo,sm0l_airflow_dag_demo,pythons2_sm0l_demos/airflow_dag_demo.py,AUTO,WORKFLOW,airflow minimal DAG definition. Place this file in your Airflow dags folder. Running it directly will only construct the DAG if airflow is installed.,,airflow,airflow datetime,8d5ab3f79125
+AUTO.SCHED.006_apscheduler_demo,sm0l_apscheduler_demo,pythons2_sm0l_demos/apscheduler_demo.py,AUTO,SCHED,APScheduler interval job (3 ticks),APScheduler,,apscheduler scheduler time,c081868ebf4b
+WEB.API.007_fastapi_app_demo,sm0l_fastapi_app_demo,pythons2_sm0l_demos/fastapi_app_demo.py,WEB,API,fastapi minimal app object,fastapi,,api fastapi,0c559b5bbb8e
+MISC.MISC.123_google_calendar_api_demo,sm0l_google_calendar_api_demo,pythons2_sm0l_demos/google_calendar_api_demo.py,MISC,MISC,Google Calendar API minimal skeleton. Requires service account JSON path in: GOOGLE_CRED_JSON This demo only builds a client and lists next 1 event if credentials are provided.,,googleapiclient oauth2client,datetime googleapiclient oauth2client,ac8a67491802
+MISC.MISC.124_gradio_demo,sm0l_gradio_demo,pythons2_sm0l_demos/gradio_demo.py,MISC,MISC,gradio minimal app. Run: python gradio_demo.py,gradio,,gradio,c74e878a4ccc
+MISC.MISC.125_loguru_demo,sm0l_loguru_demo,pythons2_sm0l_demos/loguru_demo.py,MISC,MISC,loguru minimal logging,loguru,,loguru,9dfd1a56589f
+MISC.MISC.126_openai_demo,sm0l_openai_demo,pythons2_sm0l_demos/openai_demo.py,MISC,MISC,OpenAI minimal API demo (requires OPENAI_API_KEY). Optional: set OPENAI_DEMO_MODEL to override model,openai,,openai,bb5741ba5b2b
+DOC.OFFICE.003_openpyxl_demo,sm0l_openpyxl_demo,pythons2_sm0l_demos/openpyxl_demo.py,DOC,OFFICE,openpyxl create workbook,openpyxl,,openpyxl pathlib tempfile,8a0394e8e897
+DATA.DF.010_pandas_demo,sm0l_pandas_demo,pythons2_sm0l_demos/pandas_demo.py,DATA,DF,pandas tiny delta column,pandas,,pandas,17f84e0549f3
+MISC.MISC.127_pattern_command_registry,sm0l_pattern_command_registry,pythons2_sm0l_demos/pattern_command_registry.py,MISC,MISC,Command registry pattern (stdlib-only).,,,,442b8257385d
+MISC.MISC.128_pattern_config_injection,sm0l_pattern_config_injection,pythons2_sm0l_demos/pattern_config_injection.py,MISC,MISC,Configuration injection pattern (stdlib-only).,,,,9096be370a41
+MISC.MISC.129_pattern_guardian,sm0l_pattern_guardian,pythons2_sm0l_demos/pattern_guardian.py,MISC,MISC,Guardian pattern: runtime interface guard (stdlib-only).,,,,0c047d43b6e4
+MISC.MISC.130_pattern_plugin_hooks,sm0l_pattern_plugin_hooks,pythons2_sm0l_demos/pattern_plugin_hooks.py,MISC,MISC,Dynamic plugin hooks pattern (stdlib-only).,,,,e6ac28ee8e47
+MISC.MISC.131_pattern_transaction_wrapper,sm0l_pattern_transaction_wrapper,pythons2_sm0l_demos/pattern_transaction_wrapper.py,MISC,MISC,Transaction wrapper pattern (stdlib-only).,,,contextlib,45723703fbf8
+WEB.BROWSER.007_playwright_demo,sm0l_playwright_demo,pythons2_sm0l_demos/playwright_demo.py,WEB,BROWSER,playwright headless launch,playwright,,browser playwright,d03f6da9acf2
+AUTO.WORKFLOW.012_prefect_flow_demo,sm0l_prefect_flow_demo,pythons2_sm0l_demos/prefect_flow_demo.py,AUTO,WORKFLOW,prefect minimal flow,prefect,,prefect,90d1c0a61e3b
+SYS.MON.007_psutil_demo,sm0l_psutil_demo,pythons2_sm0l_demos/psutil_demo.py,SYS,MON,psutil quick system stats,psutil,,psutil system,f8ca9b7be7cd
+MISC.MISC.132_pydantic_demo,sm0l_pydantic_demo,pythons2_sm0l_demos/pydantic_demo.py,MISC,MISC,pydantic v2 tiny model,pydantic,,pydantic,98694f599fc1
+DOC.PDF.009_pymupdf_demo,sm0l_pymupdf_demo,pythons2_sm0l_demos/pymupdf_demo.py,DOC,PDF,PyMuPDF (fitz) create a PDF,PyMuPDF,,fitz pathlib pdf tempfile,098a5805dc21
+DOC.PDF.010_pypdf2_demo,sm0l_pypdf2_demo,pythons2_sm0l_demos/pypdf2_demo.py,DOC,PDF,PyPDF2 create + read,,PyPDF2,pathlib pdf pypdf2 tempfile,453bc0fe7b15
+WEB.SCRAPE.008_requests_bs4_demo,sm0l_requests_bs4_demo,pythons2_sm0l_demos/requests_bs4_demo.py,WEB,SCRAPE,requests + beautifulsoup quick parse,beautifulsoup4 requests,,bs4 requests,6b1141e478cc
+MISC.MISC.133_rich_console_demo,sm0l_rich_console_demo,pythons2_sm0l_demos/rich_console_demo.py,MISC,MISC,rich minimal console + table,rich,,rich,1175111763eb
+AUTO.SCHED.007_schedule_demo,sm0l_schedule_demo,pythons2_sm0l_demos/schedule_demo.py,AUTO,SCHED,schedule tiny periodic task (3 ticks),,schedule,schedule scheduler time,0f97805fe154
+MISC.MISC.134_script_github_auto_pull_demo,sm0l_script_github_auto_pull_demo,pythons2_sm0l_demos/script_github_auto_pull_demo.py,MISC,MISC,GitHub repo auto-pull demo (safe). Set: GITHUB_REPOS_DIR (folder containing git repos),,,pathlib subprocess,81666967452f
+MISC.MISC.135_script_github_cloner_demo,sm0l_script_github_cloner_demo,pythons2_sm0l_demos/script_github_cloner_demo.py,MISC,MISC,GitHub repo cloner skeleton (safe). Set: GITHUB_CLONE_LIST (comma-separated git URLs) GITHUB_CLONE_DIR (target folder) This demo will clone missing repos and skip existing ones.,,,pathlib subprocess,134a0b9abda3
+MISC.MISC.136_script_google_calendar_summarizer_demo,sm0l_script_google_calendar_summarizer_demo,pythons2_sm0l_demos/script_google_calendar_summarizer_demo.py,MISC,MISC,Google Calendar weekly summarizer demo. Requires: GOOGLE_CRED_JSON (service account JSON) Prints a compact bullet summary of events in the next 7 days.,,googleapiclient oauth2client,datetime googleapiclient oauth2client,9398ab7dad1d
+DOC.PDF.011_script_pdf_auto_renamer_demo,sm0l_script_pdf_auto_renamer_demo,pythons2_sm0l_demos/script_pdf_auto_renamer_demo.py,DOC,PDF,PDF auto-renamer core idea,,PyPDF2,pathlib pdf pypdf2,fb15780fd6d7
+WEB.HTTP.013_script_server_monitor_demo,sm0l_script_server_monitor_demo,pythons2_sm0l_demos/script_server_monitor_demo.py,WEB,HTTP,self-healing server monitor (one-shot core),psutil requests,,psutil requests,580a26b1a79e
+MISC.MISC.137_script_slack_thread_summarizer_skeleton,sm0l_script_slack_thread_summarizer_skeleton,pythons2_sm0l_demos/script_slack_thread_summarizer_skeleton.py,MISC,MISC,Slack thread summarizer skeleton. Requires: SLACK_BOT_TOKEN This demo does not call Slack. It prints the minimal request shape.,,,,38f918cdb337
+MISC.MISC.138_script_usb_autolock_demo,sm0l_script_usb_autolock_demo,pythons2_sm0l_demos/script_usb_autolock_demo.py,MISC,MISC,"Auto-lock workstation on USB removal (platform-aware skeleton). This demo only shows lock logic. Wire it to your preferred device watcher. Windows lock: rundll32.exe user32.dll,LockWorkStation",,,platform subprocess,9aef1439e499
+MISC.MISC.139_script_wifi_passwords_demo,sm0l_script_wifi_passwords_demo,pythons2_sm0l_demos/script_wifi_passwords_demo.py,MISC,MISC,Wi-Fi password recovery demo (Windows-only). Uses `netsh` to list profiles and show keys.,,,platform subprocess,f03c90b61981
+NLP.EMBED.003_sentence_transformers_demo,sm0l_sentence_transformers_demo,pythons2_sm0l_demos/sentence_transformers_demo.py,NLP,EMBED,sentence-transformers tiny embedding,sentence-transformers,,sentence_transformers,8b11a0b291a2
+MISC.MISC.140_typer_demo,sm0l_typer_demo,pythons2_sm0l_demos/typer_demo.py,MISC,MISC,typer minimal CLI demo. Run: python typer_demo.py hello --name wofl,typer,,typer,8cbe5845e103
+SYS.MON.008_watchdog_demo,sm0l_watchdog_demo,pythons2_sm0l_demos/watchdog_demo.py,SYS,MON,watchdog minimal file-create observer,watchdog,,filesystem pathlib tempfile time watchdog,8fa334096bd9
+VIZ.PLOTS.014_pywaffle_demo,sm0l_pywaffle_demo,pywaffle_demo.py,VIZ,PLOTS,Run pywaffle_demo.py,matplotlib,__future__ pywaffle,__future__ matplotlib pywaffle,2400b9b0f93e
+MISC.MISC.141_pywhat_demo,sm0l_pywhat_demo,pywhat_demo.py,MISC,MISC,Run pywhat_demo.py,pywhat,__future__,__future__ pywhat,6935a5436a8f
+MISC.MISC.142_pywhatkit_example,sm0l_pywhatkit_example,pywhatkit_example.py,MISC,MISC,!/usr/bin/env python3,pywhatkit,,pywhatkit,6e1058d7459f
+MISC.MISC.143_redirect_stdout_demo,sm0l_redirect_stdout_demo,redirect_stdout_demo.py,MISC,MISC,Run redirect_stdout_demo.py,,__future__,__future__ contextlib io,cebdee86b42a
+WEB.SCRAPE.009_requests_bs4_demo,sm0l_requests_bs4_demo,requests_bs4_demo.py,WEB,SCRAPE,requests + BeautifulSoup HTML parse demo,beautifulsoup4 requests,,bs4 requests,cd647353316c
+WEB.HTTP.014_requests_demo,sm0l_requests_demo,requests_demo.py,WEB,HTTP,Run requests_demo.py,requests,__future__,__future__ requests,3aca79878a52
+MISC.MISC.144_restart_advanced_mode_2,sm0l_restart_advanced_mode_2,restart-advanced-mode (2).py,MISC,MISC,Run restart-advanced-mode (2).py,,,subprocess,0baf65fb8c81
+MISC.MISC.145_restart_advanced_mode,sm0l_restart_advanced_mode,restart-advanced-mode.py,MISC,MISC,Run restart-advanced-mode.py,,,subprocess,0cc19b2fee15
+MISC.MISC.146_resttart_adv_mode,sm0l_resttart_adv_mode,resttart-adv-mode.py,MISC,MISC,Run resttart-adv-mode.py,,,subprocess,0baf65fb8c81
+MISC.MISC.147_rich_console_demo,sm0l_rich_console_demo,rich_console_demo.py,MISC,MISC,rich console output demo,rich,,rich,795a1f5fc2fa
+MISC.MISC.148_rich_demo,sm0l_rich_demo,rich_demo.py,MISC,MISC,Run rich_demo.py,rich,__future__,__future__ rich,72eed6927990
+MISC.MISC.149_ruff_cli_demo,sm0l_ruff_cli_demo,ruff_cli_demo.py,MISC,MISC,ruff CLI demo on a tiny temp file.,,,pathlib subprocess tempfile textwrap,d488ebebd4ed
+MISC.MISC.150_ruff_demo,sm0l_ruff_demo,ruff_demo.py,MISC,MISC,Run ruff_demo.py,,__future__ shutil,__future__ pathlib shutil subprocess tempfile textwrap,03b485d08f81
+MISC.MISC.151_scdl_help_demo,sm0l_scdl_help_demo,scdl_help_demo.py,MISC,MISC,scdl safe demo: print CLI help. This does not download anything.,,,subprocess,3cf019304632
+AUTO.SCHED.008_schedule_demo,sm0l_schedule_demo,schedule_demo.py,AUTO,SCHED,Run schedule_demo.py,,__future__ schedule,__future__ schedule scheduler time,b954ba880e01
+AUTO.SCHED.009_schedule_example,sm0l_schedule_example,schedule_example.py,AUTO,SCHED,!/usr/bin/env python3,,schedule,schedule scheduler time,3b9dd09bb604
+AUTO.SCHED.010_scheduled_cleanup_demo,sm0l_scheduled_cleanup_demo,scheduled_cleanup_demo.py,AUTO,SCHED,schedule-based demo cleanup (safe temp sandbox).,,schedule,pathlib schedule scheduler tempfile time,b6d35a6ff6a4
+MISC.MISC.152_script_github_auto_pull_demo,sm0l_script_github_auto_pull_demo,script_github_auto_pull_demo.py,MISC,MISC,GitHub repo auto-pull demo (safe). Set: GITHUB_REPOS_DIR (folder containing git repos),,,pathlib subprocess,81666967452f
+MISC.MISC.153_script_github_cloner_demo,sm0l_script_github_cloner_demo,script_github_cloner_demo.py,MISC,MISC,GitHub repo cloner skeleton (safe). Set: GITHUB_CLONE_LIST (comma-separated git URLs) GITHUB_CLONE_DIR (target folder) This demo will clone missing repos and skip existing ones.,,,pathlib subprocess,134a0b9abda3
+MISC.MISC.154_script_google_calendar_summarizer_demo,sm0l_script_google_calendar_summarizer_demo,script_google_calendar_summarizer_demo.py,MISC,MISC,Google Calendar weekly summarizer demo. Requires: GOOGLE_CRED_JSON (service account JSON) Prints a compact bullet summary of events in the next 7 days.,,googleapiclient oauth2client,datetime googleapiclient oauth2client,9398ab7dad1d
+DOC.PDF.012_script_pdf_auto_renamer_demo,sm0l_script_pdf_auto_renamer_demo,script_pdf_auto_renamer_demo.py,DOC,PDF,PDF auto-renamer core idea,,PyPDF2,pathlib pdf pypdf2,fb15780fd6d7
+WEB.HTTP.015_script_server_monitor_demo,sm0l_script_server_monitor_demo,script_server_monitor_demo.py,WEB,HTTP,self-healing server monitor (one-shot core),psutil requests,,psutil requests,580a26b1a79e
+MISC.MISC.155_script_slack_thread_summarizer_skeleton,sm0l_script_slack_thread_summarizer_skeleton,script_slack_thread_summarizer_skeleton.py,MISC,MISC,Slack thread summarizer skeleton. Requires: SLACK_BOT_TOKEN This demo does not call Slack. It prints the minimal request shape.,,,,38f918cdb337
+MISC.MISC.156_script_usb_autolock_demo,sm0l_script_usb_autolock_demo,script_usb_autolock_demo.py,MISC,MISC,"Auto-lock workstation on USB removal (platform-aware skeleton). This demo only shows lock logic. Wire it to your preferred device watcher. Windows lock: rundll32.exe user32.dll,LockWorkStation",,,platform subprocess,9aef1439e499
+MISC.MISC.157_script_wifi_passwords_demo,sm0l_script_wifi_passwords_demo,script_wifi_passwords_demo.py,MISC,MISC,Wi-Fi password recovery demo (Windows-only). Uses `netsh` to list profiles and show keys.,,,platform subprocess,f03c90b61981
+WEB.BROWSER.008_selenium_demo,sm0l_selenium_demo,selenium_demo.py,WEB,BROWSER,Run selenium_demo.py,selenium,__future__,__future__ browser selenium,65c6c546be7e
+NLP.EMBED.004_sentence_transformers_demo,sm0l_sentence_transformers_demo,sentence_transformers_demo.py,NLP,EMBED,Run sentence_transformers_demo.py,sentence-transformers,__future__,__future__ sentence_transformers,c765662ccd2f
+MISC.MISC.158_shapely_demo,sm0l_shapely_demo,shapely_demo.py,MISC,MISC,Run shapely_demo.py,shapely,__future__,__future__ shapely,308e1c505aa4
+MISC.MISC.159_show_debloat_info,sm0l_show_debloat_info,show-debloat-info.py,MISC,MISC,Run show-debloat-info.py,,,subprocess,9db42bf2e554
+MISC.MISC.160_simple_backup,sm0l_simple_backup,simple_backup.py,MISC,MISC,!/usr/bin/env python3,,shutil,argparse datetime pathlib shutil,897d30014f77
+DATA.DF.011_sklearn_linear_regression_demo,sm0l_sklearn_linear_regression_demo,sklearn_linear_regression_demo.py,DATA,DF,sklearn LinearRegression quick forecast demo,pandas scikit-learn,,pandas sklearn,085b630471b5
+MISC.MISC.161_start_disk_cleanup,sm0l_start_disk_cleanup,start-disk-cleanup.py,MISC,MISC,Run start-disk-cleanup.py,,winreg,argparse pathlib subprocess winreg,84f489fbaa5f
+MISC.MISC.162_streamlit_app_demo,sm0l_streamlit_app_demo,streamlit_app_demo.py,MISC,MISC,streamlit minimal app. Run: streamlit run streamlit_app_demo.py,streamlit,,streamlit,6a1c869b0313
+MISC.MISC.163_telethon_demo,sm0l_telethon_demo,telethon_demo.py,MISC,MISC,telethon minimal client construction. Requires you to set TELETHON_API_ID and TELETHON_API_HASH env vars for real use. This demo won't connect.,,telethon,telethon,a4af70cfb250
+MISC.MISC.164_tenacity_demo,sm0l_tenacity_demo,tenacity_demo.py,MISC,MISC,Run tenacity_demo.py,tenacity,__future__,__future__ logging random tenacity time,d5a360ad927c
+MISC.MISC.165_tenacity_example,sm0l_tenacity_example,tenacity_example.py,MISC,MISC,!/usr/bin/env python3,tenacity,,random tenacity,7ba9aea28d25
+MISC.MISC.166_tenacity_retry_demo,sm0l_tenacity_retry_demo,tenacity_retry_demo.py,MISC,MISC,tenacity retry demo,tenacity,,retry tenacity,633c7c9059aa
+MISC.MISC.167_toolz_partition_demo,sm0l_toolz_partition_demo,toolz_partition_demo.py,MISC,MISC,toolz.partition_all demo,toolz,,toolz,13a1c22158d7
+MISC.MISC.168_toolz_pipe_demo,sm0l_toolz_pipe_demo,toolz_pipe_demo.py,MISC,MISC,toolz.pipe demo,toolz,,toolz,0c8c70f6efcb
+ML.TORCH.002_torch_tensor_demo,sm0l_torch_tensor_demo,torch_tensor_demo.py,ML,TORCH,Run torch_tensor_demo.py,torch,__future__,__future__ torch,768cb7bd323d
+MISC.MISC.169_tqdm_example,sm0l_tqdm_example,tqdm_example.py,MISC,MISC,!/usr/bin/env python3,tqdm,,time tqdm,09baa00986da
+MISC.MISC.170_twint_demo,sm0l_twint_demo,twint_demo.py,MISC,MISC,twint minimal config object demo,,twint,twint,cd758742fd05
+MISC.MISC.171_typer_demo,sm0l_typer_demo,typer_demo.py,MISC,MISC,Run typer_demo.py,typer,__future__,__future__ typer,bdada77f3c43
+SYS.MON.009_watchdog_demo,sm0l_watchdog_demo,watchdog_demo.py,SYS,MON,Run watchdog_demo.py,watchdog,__future__,__future__ filesystem pathlib tempfile time watchdog,2cde8d4d1229
+MISC.MISC.172_wifi_password_recovery,sm0l_wifi_password_recovery,wifi_password_recovery.py,MISC,MISC,!/usr/bin/env python3,,,argparse subprocess,899f2f0f57c3
+MISC.MISC.173_win_debloat_tools,sm0l_win_debloat_tools,win-debloat-tools.py,MISC,MISC,Run win-debloat-tools.py,,winreg,ctypes enum subprocess winreg,f44ff15a0b42
+MISC.MISC.174_yaml_loader,sm0l_yaml_loader,yaml-loader.py,MISC,MISC,Run yaml-loader.py,PyYAML,,pathlib yaml,0389fcdb6abb
+MISC.MISC.175_youtubesearchpython_demo,sm0l_youtubesearchpython_demo,youtubesearchpython_demo.py,MISC,MISC,youtube-search-python quick search demo,youtube-search-python,,youtubesearchpython,5974f378da61

@@ -1,0 +1,4 @@
+# HEAVY profile: heavy torch (install in addition to base).
+# Generated from sm0l_tools_manifest.json
+
+torch

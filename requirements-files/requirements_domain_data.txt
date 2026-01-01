@@ -1,0 +1,8 @@
+# DOMAIN profile: DataFrames & data wrangling (excluding heavyweight stacks).
+# Generated from sm0l_tools_manifest.json
+
+arrow
+numpy
+pandas
+polars
+scikit-learn

@@ -1,0 +1,5 @@
+# DOMAIN profile: System monitoring/filesystem (excluding heavyweight stacks).
+# Generated from sm0l_tools_manifest.json
+
+psutil
+watchdog

@@ -1,0 +1,4 @@
+# DOMAIN profile: Automation/scheduling/workflows (excluding heavyweight stacks).
+# Generated from sm0l_tools_manifest.json
+
+APScheduler

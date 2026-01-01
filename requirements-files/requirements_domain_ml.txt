@@ -1,0 +1,2 @@
+# DOMAIN profile: Machine learning (excluding heavyweight stacks).
+# Generated from sm0l_tools_manifest.json

@@ -1,0 +1,25 @@
+# DOMAIN profile: Miscellaneous (excluding heavyweight stacks).
+# Generated from sm0l_tools_manifest.json
+
+Faker
+Pillow
+PyYAML
+imbox
+joblib
+loguru
+numba
+openai
+orjson
+pendulum
+pydantic
+pydub
+pytesseract
+pywhat
+pywhatkit
+rich
+shapely
+tenacity
+toolz
+tqdm
+typer
+youtube-search-python

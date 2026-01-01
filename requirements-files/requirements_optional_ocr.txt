@@ -1,0 +1,4 @@
+# OPTIONAL profile: optional ocr (may require system deps/credentials).
+# Generated from sm0l_tools_manifest.json
+
+pytesseract
