@@ -1,3 +1,17 @@
+[README.md]
+
+<p align="center">
+  <a href="https://github.com/whispr-dev/mcp-project">
+    <img src="https://img.shields.io/github/stars/whispr-dev/mcp-project?style=for-the-badge" alt="GitHub stars" />
+  </a>
+  <a href="https://github.com/whispr-dev/mcp-project/issues">
+    <img src="https://img.shields.io/github/issues/whispr-dev/mcp-project?style=for-the-badge" alt="GitHub issues" />
+  </a>
+  <a href="https://github.com/whispr-dev/mcp-project/fork">
+    <img src="https://img.shields.io/github/forks/whispr-dev/mcp-project?style=for-the-badge" alt="GitHub forks" />
+  </a>
+</p>
+
 # mcp-project
 
 the ultiamte MCP tooling
