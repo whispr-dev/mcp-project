@@ -1,18 +1,33 @@
-[README.md]
+<!-- repo-convergence:readme-header:start -->
+<!-- repo-convergence:language=FILL_ME -->
+# mcp-project
 
 <p align="center">
-  <a href="https://github.com/whispr-dev/mcp-project">
-    <img src="https://img.shields.io/github/stars/whispr-dev/mcp-project?style=for-the-badge" alt="GitHub stars" />
+  <a href="https://github.com/whisprer/mcp-project/releases">
+    <img src="https://img.shields.io/github/v/release/whisprer/mcp-project?color=4CAF50&label=release" alt="Release Version">
   </a>
-  <a href="https://github.com/whispr-dev/mcp-project/issues">
-    <img src="https://img.shields.io/github/issues/whispr-dev/mcp-project?style=for-the-badge" alt="GitHub issues" />
+  <a href="https://github.com/whisprer/mcp-project/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-Hybrid-green.svg" alt="License">
   </a>
-  <a href="https://github.com/whispr-dev/mcp-project/fork">
-    <img src="https://img.shields.io/github/forks/whispr-dev/mcp-project?style=for-the-badge" alt="GitHub forks" />
+  <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg" alt="Platform">
+  <a href="https://github.com/whisprer/mcp-project/actions">
+    <img src="https://img.shields.io/badge/build-workflow%20not%20set-lightgrey.svg" alt="Build Status">
   </a>
 </p>
 
-# mcp-project
+[![GitHub](https://img.shields.io/badge/GitHub-whisprer%2Fmcp-project-blue?logo=github&style=flat-square)](https://github.com/whisprer/mcp-project)
+![Commits](https://img.shields.io/github/commit-activity/m/whisprer/mcp-project?label=commits)
+![Last Commit](https://img.shields.io/github/last-commit/whisprer/mcp-project)
+![Issues](https://img.shields.io/github/issues/whisprer/mcp-project)
+[![Version](https://img.shields.io/badge/version-3.1.1-blue.svg)](https://github.com/whisprer/mcp-project)
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-lightgrey.svg)](https://www.microsoft.com/windows)
+[![Language](https://img.shields.io/badge/language-FILL_ME-blue.svg)](#)
+[![Status](https://img.shields.io/badge/Status-Alpha%20Release-orange?style=flat-square)](#)
+
+<p align="center">
+  <img src="/assets/mcp-project-banner.png" width="850" alt="mcp-project Banner">
+</p>
+<!-- repo-convergence:readme-header:end -->
 
 the ultiamte MCP tooling
 
